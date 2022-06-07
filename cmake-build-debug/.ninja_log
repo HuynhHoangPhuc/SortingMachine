@@ -1,0 +1,14 @@
+# ninja log v5
+1	344	1654611027866193939	CMakeFiles/SortingMachine.dir/main.cpp.o	f854f35d9a375d94
+1	488	1654595923087728621	CMakeFiles/SortingMachine.dir/Sort/QuickSort.cpp.o	881ed76cc163954d
+1	253	1654611058316287457	CMakeFiles/SortingMachine.dir/Sort/BubbleSort.cpp.o	95a037b1b5ddf38d
+253	284	1654611058348791422	SortingMachine	9a566d2ccbf147ae
+1	354	1654610556880844807	CMakeFiles/SortingMachine.dir/Sort/InsertionSort.cpp.o	bdb080076a0c2b5f
+0	53	1654613285066068988	build.ninja	9ec6904580839127
+1	114	1654613285184789836	CMakeFiles/SortingMachine.dir/SortFactory/ComparisionModeFactory.cpp.o	3fb5185c2ef0a578
+1	430	1654613285501637188	CMakeFiles/SortingMachine.dir/SortFactory/AlgorithmModeFactory.cpp.o	cf796881a6948e11
+1	475	1654613285546401866	CMakeFiles/SortingMachine.dir/main.cpp.o	f854f35d9a375d94
+476	522	1654613285595502011	SortingMachine	f3fda2ab7b4378d
+2	404	1654614545018504459	CMakeFiles/SortingMachine.dir/SortFactory/ComparisionModeFactory.cpp.o	3fb5185c2ef0a578
+2	485	1654614545100714393	CMakeFiles/SortingMachine.dir/main.cpp.o	f854f35d9a375d94
+486	528	1654614545144394461	SortingMachine	f3fda2ab7b4378d
